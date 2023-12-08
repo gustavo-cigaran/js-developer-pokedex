@@ -78,6 +78,10 @@
     background-color: #f9aec7;
 }
 
+#pokemonList li {
+    cursor: pointer;
+}
+
 .pokemon {
     display: flex;
     flex-direction: column;
